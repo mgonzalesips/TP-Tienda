@@ -49,11 +49,9 @@ Definir arrays
 ```
 dataType[] myArr = new dataType[limit]
 ```
-Adicionalmente, los archivos de este repositorio contienen codigo _a modo de ejemplo_ de como puede verse la funcion Main y algunos metodos que podrian implementar.
-
 
 ### Importante
-Deberán hacer las validaciones que consideren necesarias. Por ejemplo: si el stock de un producto es 0, no se puede agregar al carrito. Creen los objetos que consideren necesarios para probar todas las funcionalidades de las clases y todos los casos.
+Deberán hacer las validaciones que consideren necesarias para prevenir los posibles errores. Por ejemplo: si el stock de un producto es 0, no se puede agregar al carrito. Creen los objetos que consideren necesarios para probar todas las funcionalidades de las clases.
 
 ## Entrega
 La fecha límite de entrega será el __viernes 7/6/24 a las 23:59__.
